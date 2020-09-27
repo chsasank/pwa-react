@@ -77,3 +77,21 @@ Check node's version
 $ node --version
 v12.18.4
 ```
+
+## Create React App (CRA)
+
+[Create React App (CRA)](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) is a light weight tool to setup barebones react app.
+
+
+```bash
+# this will take some time
+$ npx create-react-app sample-react-app
+$ cd sample-react-app
+$ npm start
+```
+
+A react app should be running at http://localhost:3000 or in the url specified in the output of above command.
+
+Development server is now setup with hot reload!
+
+![sample react app](./public/react-app.png)
