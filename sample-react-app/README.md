@@ -4,7 +4,7 @@ Here are my notes to setup sample react app and relevant environment in WSL ubun
 
 ## Install WSL
 
-- [] Put instructions/links here for WSL, vscode etc.
+- [ ] Put instructions/links here for WSL, vscode etc.
 
 ## Install NVM
 
